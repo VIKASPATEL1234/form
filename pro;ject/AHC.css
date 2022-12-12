@@ -1,0 +1,113 @@
+
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+}
+
+.btn-primary {
+    background-color: black;
+    color: white;
+    /* border: 1px solid white; */
+}
+
+.btn-warning {
+    background-color: black;
+    color: white;
+    /* border: 1px solid white; */
+}
+
+.navbar a {
+    margin-left: 20px;
+}
+
+.floatright {
+    float: right;
+    margin-right: 10px;
+}
+
+.sticky{
+    background-color:black;
+    padding: 10px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+}
+
+/* About,hitsory ,contact css */
+
+body {
+    margin: 0;
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+.bold {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size:30px;
+color: aqua;
+width: 5000px;
+
+
+}
+.contener{
+   text-align: center;
+   margin: 50px;
+}
+.head-bold{
+    font-family: cursive;
+    font-size: 50px;
+
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    /* height: 50px; */
+    padding: 20px;
+}
+.footer-ah{
+    margin-top: 90px;
+    padding: 20px;
+     text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
+/* History, About Css */
+
+.font-color{
+    color: rgb(190, 180, 180);
+    padding: 20px;
+    text-align: center;
+
+}
+
+.head-boldH{
+    font-family:cursive ;
+    font-size: 50px;
+    color: rgb(213, 172, 95);
+}
+.contenerH{
+    /* margin: 70px; */
+    padding: 70px;
+}
+.head-history{
+    color: rgb(154, 162, 169);
+}
+/* Contact css */
+.font-color-contact{
+    color: rgb(184, 193, 200);
+    text-decoration:solid;
+}
+.parg-text{
+    color: rgb(168, 160, 152);
+}

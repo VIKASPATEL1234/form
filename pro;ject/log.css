@@ -1,0 +1,99 @@
+
+body{
+  background: linear-gradient( to bottom,white,black);
+
+}
+
+
+.sticky{
+    background-color:black;
+    padding: 10px;
+    position: -webkit-sticky;
+    position: sticky;
+    
+    top: 0px;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+}
+
+.btn-primary {
+    background-color:black ;
+    color: white;
+    /* border: 1px solid white; */
+}
+
+
+.btn-warning {
+    background-color:black ;
+    color: white;
+    /* border: 1px solid white; */
+}
+
+.navbar a {
+    margin-left: 20px;
+}
+
+.floatright {
+    float: right;
+    margin-right: 10px;
+}
+
+
+.uname {
+    float: right;
+    padding: 50px;
+    /* margin-top: 200px; */
+    width: 48%;
+    display: inline-block;
+    background:linear-gradient(to left,black ,white)
+}
+
+.input {
+    width: 100%;
+    border-radius:2px;
+}
+
+
+.remember {
+    float: right;
+    margin-top: 10px;
+    margin-left: 20%;
+    color: white;
+
+}
+
+.login {
+
+    float: right;
+    padding: 5px 10px;
+    background-color: rgb(7, 9, 9);
+    height: 30px;
+    margin-right: 20px;
+    margin-bottom: 80px;
+    color: white;
+}
+
+.log {
+    margin-top: 40px;
+}
+
+.canbtn {
+
+    float: left;
+    padding: 5px 10px;
+    color: white;
+    background-color: rgb(47, 34, 34);
+}
+
+.pasforgot {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+
+}
+

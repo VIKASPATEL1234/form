@@ -1,0 +1,120 @@
+body {
+    background-image: url(regh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.sticky{
+    background-color:black;
+    padding: 10px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+}
+
+
+a {
+    color:white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+}
+
+.btn-primary {
+    background-color:black ;
+    color: white;
+    /* border: 1px solid white; */
+}
+
+
+.btn-warning {
+    background-color:black ;
+    color: white;
+    /* border: 1px solid white; */
+}
+
+.navbar a {
+    margin-left: 20px;
+}
+
+.floatright {
+    float: right;
+    margin-right: 10px;
+}
+
+h1 {
+
+    color: white;
+    text-align: center;
+}
+
+.maincontener {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.contener {
+    margin: 50px;
+    align-items: center;
+    color: white;
+    width: 90%;
+
+
+}
+
+.contener1 {
+    margin: 50px;
+
+    color: white;
+
+    width: 90%;
+
+}
+
+input {
+    width: 100%;
+    height: 20px;
+}
+
+select {
+    width: 102%;
+    height: 28px;
+}
+
+.already {
+    color: white;
+    text-align: center;
+}
+
+b {
+    color: rgb(226, 188, 20);
+    text-decoration: dashed;
+}
+
+.btn {
+    align-items: center;
+    width: 100%;
+    height: 30px;
+    font-size: medium;
+    text-shadow: 1px 0px 2px rgb(104, 25, 25);
+
+}
+
+.term {
+    text-align: center;
+    color: white;
+
+}
+.footer{
+    /* color: black; */
+    width: 100%;
+    padding: 1px;
+   text-align: center;
+   background-color:black;
+}
+.copyright{
+    color: white;
+}
